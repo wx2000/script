@@ -2,6 +2,7 @@ __author__ = 'apple'
 #coding:utf-8
 import urllib
 import time
+import os
 
 url = ['']*100
 page = 1
